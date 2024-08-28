@@ -36,8 +36,8 @@ This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0
 For any inquiries or further information, please contact our team at:
 
 - Email: contact@wpingou.org
-<!--- Twitter: [@wPingou](#)
-- LinkedIn: [wPingou.org](#)-->
+<!--- Twitter: [@wPingou](#)-->
+- LinkedIn: [wPingou](https://www.linkedin.com/company/wpingou/)
 
 ```
                                                                                                         
